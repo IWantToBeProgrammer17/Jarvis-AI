@@ -1,0 +1,104 @@
+Natural Science Lesson
+
+
+FISIKA 
+
+
+Q1 GLB: Jarak 1,8 km ditempuh dalam 3 menit. Berapa kecepatan rata-rata?
+
+Rumus: v = s / t
+Hitung: s = 1800 m, t = 180 s → v = 1800/180 = 10 m/s
+Jawab: 10 m/s
+Q2 GLBB: Benda mula-mula diam (v0 = 0), a = 2 m/s², t = 6 s. Hitung v dan s.
+
+Rumus: v = v0 + a t; s = v0 t + 1/2 a t²
+Hitung: v = 12 m/s; s = 36 m
+Jawab: v = 12 m/s; s = 36 m
+Q3 Hukum II Newton: Massa 3 kg dipercepat 4 m/s². Berapa resultan gaya?
+
+Rumus: F = m a
+Hitung: F = 3 × 4 = 12 N
+Jawab: 12 N
+Q4 Usaha oleh gaya miring: Gaya 30 N menarik sejauh 4 m dengan sudut 37°. Berapa usaha?
+
+Rumus: W = F s cos θ (cos 37° ≈ 0,8)
+Hitung: W = 30 × 4 × 0,8 = 96 J
+Jawab: 96 J
+Q5 Impuls–Momentum: Bola 0,20 kg dari diam menjadi 15 m/s dalam 0,05 s. Berapa gaya rata-rata?
+
+Rumus: J = Δp = m Δv; F̄ = Δp / Δt
+Hitung: Δp = 0,20 × 15 = 3 kg·m/s → F̄ = 3 / 0,05 = 60 N
+Jawab: 60 N
+Q6 Tekanan hidrostatis: Kedalaman 2 m di air (ρ = 1000 kg/m³, g = 10 m/s²). Berapa tekanannya?
+
+Rumus: P = ρ g h
+Hitung: P = 1000 × 10 × 2 = 20.000 Pa
+Jawab: 2,0 × 10^4 Pa
+Q7 Hukum Pascal (dongkrak hidrolik): A1 = 2 cm², A2 = 50 cm², F1 = 40 N. Berapa F2?
+
+Rumus: F1/A1 = F2/A2 → F2 = F1 (A2/A1)
+Hitung: F2 = 40 × (50/2) = 1000 N
+Jawab: 1000 N
+Q8 Gaya Archimedes: Benda volume 500 cm³ tercelup seluruhnya dalam air. Berapa gaya ke atas?
+
+Rumus: FA = ρair g V (500 cm³ = 5 × 10^-4 m³)
+Hitung: FA = 1000 × 10 × 5 × 10^-4 = 5 N
+Jawab: 5 N
+Q9 Listrik dinamis: R1 = 3 Ω dan R2 = 6 Ω seri pada baterai 9 V. Hitung I total dan V pada R2.
+
+Rumus: Rseri = R1 + R2; I = V / Rtotal; V2 = I R2
+Hitung: Rtotal = 9 Ω; I = 9/9 = 1 A; V2 = 1 × 6 = 6 V
+Jawab: I = 1 A; V pada R2 = 6 V
+Q10 Energi listrik & biaya: Lampu 100 W menyala 5 jam/hari selama 30 hari. Tarif Rp1.700/kWh. Berapa biayanya?
+
+Rumus: E (kWh) = (P(W)/1000) × waktu (jam); Biaya = E × tarif
+Hitung: E = 0,1 × (5 × 30) = 15 kWh → biaya = 15 × 1.700 = Rp25.500
+Jawab: Rp25.500
+
+BIOLOGI 
+
+Q11 Fungsi organ reproduksi utama
+
+Jawab:
+Testis: menghasilkan sperma & hormon testosteron
+Ovarium: menghasilkan ovum & hormon estrogen/progesteron
+Uterus: tempat tumbuh kembang janin
+Tuba fallopi: tempat fertilisasi (pembuahan)
+Serviks/vagina: saluran keluarnya bayi/menstruasi
+Q12 Siklus menstruasi 30 hari. Kapan ovulasi?
+
+Aturan: Ovulasi ≈ 14 hari sebelum menstruasi berikutnya
+Hitung: 30 − 14 = hari ke-16
+Jawab: Sekitar hari ke-16 (masa subur ± hari 13–17)
+Q13 Urutan perkembangan awal setelah pembuahan
+
+Jawab: Zigot → morula → blastula/blastokista → implantasi → gastrula
+Q14 Hereditas monohibrid: Tt × tt (T = tinggi dominan). Rasio genotipe & fenotipe?
+
+Alat: Kotak Punnett
+Hitung: 50% Tt (tinggi), 50% tt (pendek)
+Jawab: Genotipe 1:1; Fenotipe 1:1 (tinggi:pendek)
+Q15 Golongan darah ABO: Orang tua IA i × IB i. Peluang anak golongan darah O dan AB?
+
+Konsep: IA dan IB kodominan; i resesif
+Hasil: IAIB (AB), IAi (A), iIB (B), ii (O) masing-masing 25%
+Jawab: O = 25%; AB = 25%
+Q16 Pewarisan terpaut kromosom X (hemofilia): Ibu carrier XH Xh, ayah normal XH Y. Peluang anak laki-laki hemofilia?
+
+Hasil anak: XH XH, XH Xh, XH Y, Xh Y
+Jawab: 25% dari semua anak; atau 50% dari anak laki-laki
+Q17 Sistem koordinasi: Jalur refleks lutut (refleks patela)
+
+Jawab: Reseptor (otot) → neuron sensorik → interneuron (sumsum tulang belakang) → neuron motorik → efektor (otot)
+Q18 Sistem ekskresi: Tahap pembentukan urin di ginjal
+
+Jawab: Filtrasi (glomerulus) → Reabsorpsi (tubulus) → Sekresi/augmentasi (tubulus) → urin
+Q19 Bioteknologi konvensional: Pembuatan yogurt
+
+Reaksi: Glukosa (C6H12O6) → 2 Asam laktat (C3H6O3) + energi (oleh Lactobacillus)
+Jawab: Susu dipasteurisasi → diinokulasi bakteri asam laktat → fermentasi → asam laktat mengentalkan susu
+Q20 Pertumbuhan populasi (diskret): N0 = 200, r = 10% per periode, t = 4. Berapa Nt?
+
+Rumus: Nt = N0 (1 + r)^t
+Hitung: Nt = 200 (1,1)^4 ≈ 200 × 1,4641 ≈ 292,8
+Jawab: ≈ 293 individu

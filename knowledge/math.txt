@@ -1,0 +1,70 @@
+Math Lesson
+
+
+Aritmetika
+
+Berapa 25% dari 360?
+Jawab: 90 (karena 0,25 × 360 = 90)
+
+Hitung 3/4 + 2/3
+Jawab: 17/12 = 1 5/12 (samakan penyebut: 9/12 + 8/12)
+
+Bunga sederhana: modal 2.000.000, bunga 6% per tahun, lama 8 bulan. Berapa bunganya?
+Jawab: 80.000 (2.000.000 × 0,06 × 8/12 = 80.000). Total akhir: 2.080.000
+
+Aljabar Dasar
+
+Selesaikan 2x + 3 = 11
+Jawab: x = 4
+
+Faktorkan x^2 − 5x + 6
+Jawab: (x − 2)(x − 3)
+
+Sederhanakan (2x^2y)(−3xy^3) / (6x^2y^2)
+Jawab: −x y^2
+
+Persamaan Kuadrat
+
+Tentukan akar-akar x^2 − 7x + 10 = 0
+Jawab: x = 2 atau x = 5
+
+Jumlah dan hasil kali akar persamaan 3x^2 − 4x − 7 = 0
+Jawab: jumlah = 4/3, hasil kali = −7/3
+
+Geometri Bidang
+
+Luas segitiga dengan alas 12 cm dan tinggi 9 cm
+Jawab: 54 cm² (1/2 × 12 × 9)
+
+Keliling lingkaran diameter 14 cm (ambil π ≈ 22/7)
+Jawab: 44 cm (π × d)
+
+Segitiga siku-siku dengan kaki 9 cm dan 12 cm. Berapa sisi miringnya?
+Jawab: 15 cm (akar dari 9² + 12² = 225)
+
+Trigonometri
+
+Jika sin θ = 3/5 dan θ di kuadran I, tentukan cos θ dan tan θ
+Jawab: cos θ = 4/5, tan θ = 3/4
+
+Nilai sin 30°, cos 60°, tan 45°
+Jawab: sin 30° = 1/2, cos 60° = 1/2, tan 45° = 1
+
+Statistika dan Peluang
+
+Rata-rata dari 6, 8, 9, 11, 6
+Jawab: 8 (jumlah 40 dibagi 5)
+
+Median dari data 3, 4, 7, 7, 9, 10
+Jawab: 7 (rata-rata dua nilai tengah 7 dan 7)
+
+Peluang mendapatkan bilangan prima saat melempar dadu bersisi 6
+Jawab: 1/2 (prima: 2, 3, 5 → 3 dari 6 kemungkinan)
+
+Barisan dan Deret
+
+Barisan aritmetika dengan suku pertama 5 dan beda 3. Berapa suku ke-10?
+Jawab: 32 (U10 = 5 + 9×3)
+
+Barisan geometri dengan suku pertama 3 dan rasio 2. Berapa suku ke-8?
+Jawab: 384 (U8 = 3 × 2^7)
