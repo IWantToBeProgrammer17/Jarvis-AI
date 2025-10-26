@@ -1,0 +1,16 @@
+{
+    "name": "jarvis-ai",
+    "version": "1.0.0",
+    "main": "build-model.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "knowledge:scrap": "node scrap-knowledge.js",
+        "model:build": "node build-model.js",
+        "model:deploy": "node deploy-model.js",
+        "model:publish": "node scrap-knowledge.js && node build-model.js && node deploy-model.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+}
